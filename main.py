@@ -32,7 +32,7 @@ def insert_student(conn, name, age, major):
             (name, age, major),
         )
         conn.commit()
-        print("Record inserted successfully")
+        print(f"Record inserted successfully of student {name}")
     except sqlite3.Error as e:
         print(f"Error inserting record: {e}")
 
