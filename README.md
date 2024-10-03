@@ -39,7 +39,7 @@ To connect to a SQL database, use the following code snippet. If the specified d
          conn.execute("DELETE FROM table_name WHERE primary_key = ?", (primary_key_value,))
          conn.commit()
          ```
-3. Write two different SQL queries
+3. **Write two different SQL queries**
    1. Count number of rows in a table
         ```
         conn.execute("SELECT COUNT(*) FROM table_name")
