@@ -1,4 +1,4 @@
-# jf361_ids706_mp4
+# jf361_ids706_mp5
 [![Python SQL CRUD CI](https://github.com/siyiia/jf361_ids706_mp5/actions/workflows/cicd.yml/badge.svg)](https://github.com/siyiia/jf361_ids706_mp5/actions/workflows/cicd.yml)
 
 ## Project Introduction
